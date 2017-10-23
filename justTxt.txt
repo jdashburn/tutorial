@@ -1,1 +1,2 @@
 just using this to test GitHub and git
+adding new txt to make this show up for the git status
